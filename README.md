@@ -34,9 +34,9 @@ ShapeFlow integrates naturally into Blender without altering scene units or forc
     <td align="center">
       <img src="image/shapeflow.png" width="300" />
       <br><b>ShapeFlow</b>
-   
-  </tr>
+     </tr>
 </table>
+---
 
 ## Workflow Philosophy
 
