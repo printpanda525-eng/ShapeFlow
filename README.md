@@ -36,6 +36,7 @@ ShapeFlow integrates naturally into Blender without altering scene units or forc
       <br><b>ShapeFlow</b>
      </tr>
 </table>
+
 ---
 
 ## Workflow Philosophy
